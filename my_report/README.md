@@ -42,6 +42,8 @@
 
 -> Τέλος, τώρα η κάμερα ακολουθεί την Sally, όπως προβλέπουν τα βήματα του “camera cinemachine”.
 
+Όταν προσθέτω φωτογραφίες εδώ εμφανίζεται error από το github. Υπάρχει pdf με εικόνες στο eclass και στα αρχεία του repository "dpsd18115_report2" :)
+
 # 3rd Deliverable 
 
 
