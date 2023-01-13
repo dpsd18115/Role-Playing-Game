@@ -1,27 +1,30 @@
-# Lesson: Digital & Serious Games
+# Lesson: Ψηφιακά Παιχνίδια και Παιγνιώδης Μάθηση 
 
 ### First and Last Name: Δημήτριος Τρεβιζάκης
 ### University Registration Number: dpsd18115
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### GitHub Personal Profile: https://github.com/dpsd18115
+### Digital & Serious Games Personal Repository: https://dpsd18115.github.io/Role-Playing-Game/
 
 # Introduction
 
 # Summary
-
-ΒΛ. ΑΡΧΕΙΟ "dpsd18115_report2.pdf" ΓΙΑ REPORT ΜΕ ΦΩΤΟΓΡΑΦΙΕΣ (περιέχει φωτογραφίες των αλλαγών, τους χαρακτήρες και screenshot του παιχνιδιού όπως έχει διαμορφωθεί μέχρι τώρα)
-
-Η διαδικασία σχεδίασης και ανάπτυξης του πρώτου παραδοτέου της εργασίας βασίζεται στις οδηγίες που έχουν δοθεί γραπτώς στο Github. Οι αλλαγές που έχουν γίνει για την διαφοροποίηση του παιχνιδιού από το δεδομένο παράδειγμα με την Ruby είναι οι εξής: 
+Στα πλαίσια της εργασίας του μαθήματος Ψηφιακά Παιχνίδια και Παιγνιώδης Μάθηση δημιουργήθηκε ένα παιχνίδι στο Unity. Στόχος της εργασίας είναι η μάθηση μέσω της ανάπτυξης ενός παιχνιδιού βασισμένο στο παιχνίδι “Ruby’s Adventure: 2D Beginner”. Η παραλλαγή των χαρακτήρων και των σεναρίων είναι επιλογής μας. 
 
 # 1st Deliverable
 
--> Επιλογή διαφορετικού χαρακτήρα ως πρωταγωνιστή, πρωταγωνιστής γίνεται η Sally από την ταινία “The Nightmare Before Christmas”. Η Sally μπορεί να κινηθεί με input από το πληκτρολόγιο, με τα γραμματα A, W, S, D και τα αντίστοιχα βέλη. (σύνδεσμος https://disney.fandom.com/wiki/Sally)
+Η διαδικασία σχεδίασης και ανάπτυξης του πρώτου παραδοτέου της εργασίας βασίζεται στις οδηγίες που έχουν δοθεί γραπτώς στο Github. Οι αλλαγές που έχουν γίνει για την διαφοροποίηση του παιχνιδιού από το δεδομένο παράδειγμα με την Ruby είναι οι εξής:
 
--> Επιλογή διαφορετικού tilemap με χειμερινό τοπίο για την δημιουργία του κόσμου της Sally. (σύνδεσμος https://murphysdad.itch.io/christmas-village-asset-pack)
+●	Επιλογή διαφορετικού χαρακτήρα ως πρωταγωνιστή, πρωταγωνιστής γίνεται η Sally από την ταινία “The Nightmare Before Christmas”. Η Sally μπορεί να κινηθεί με input από το πληκτρολόγιο, με τα γραμματα A, W, S, D και τα αντίστοιχα βέλη. (σύνδεσμος https://disney.fandom.com/wiki/Sally)
+![Sally](https://user-images.githubusercontent.com/115795810/212251125-8be8e30e-7c2c-4084-8b85-2bcfbc0273e2.png)
 
--> Τοποθέτηση αντικειμένων για διακόσμηση του παιχνιδιού. Πιο συγκεκριμένα, υπάρχει ένα σπίτι κοντά σε ένα χιονισμένο δάσος και μια παγωμένη λίμνη με παγκάκια και δημόσιο φωτισμό. (σύνδεσμος https://murphysdad.itch.io/christmas-village-asset-pack) 
+●	Στο παιχνίδι έχει τοποθετηθεί και ο Oogie Boogie, ένας ακόμα χαρακτήρας με τον οποίο θα αλληλεπιδρά η Sally σε επόμενο παραδοτέο. Σε αυτό το σημείο της εργασίας, αυτός ο χαρακτήρας παραμένει ακίνητος και η Sally μπορεί να περάσει από πάνω του. (σύνδεσμος https://disney.fandom.com/wiki/Oogie_Boogie?file=OogieBoogie.png )
+![OogieBoogie](https://user-images.githubusercontent.com/115795810/212251229-b8bfd85e-ef2f-4c52-9dc2-ed216695b4f1.png)
 
--> Στο παιχνίδι έχει τοποθετηθεί και ο Oogie Boogie, ένας ακόμα χαρακτήρας με τον οποίο θα αλληλεπιδρά η Sally σε επόμενο παραδοτέο. Σε αυτό το σημείο της εργασίας, αυτός ο χαρακτήρας παραμένει ακίνητος και η Sally μπορεί να περάσει από πάνω του. (σύνδεσμος https://disney.fandom.com/wiki/Oogie_Boogie?file=OogieBoogie.png )
+●	Επιλογή διαφορετικού tilemap με χειμερινό τοπίο για την δημιουργία του κόσμου της Sally. (σύνδεσμος https://murphysdad.itch.io/christmas-village-asset-pack)
+●	Τοποθέτηση αντικειμένων για διακόσμηση του παιχνιδιού. Πιο συγκεκριμένα, υπάρχει ένα σπίτι κοντά σε ένα χιονισμένο δάσος και μια παγωμένη λίμνη με παγκάκια και δημόσιο φωτισμό. (σύνδεσμος https://murphysdad.itch.io/christmas-village-asset-pack) 
+
+Παρακάτω δίνεται screenshot του παιχνιδιού όπως έχει διαμορφωθεί μέχρι τώρα. 
+![screenshot](https://user-images.githubusercontent.com/115795810/212251454-26cc2a4e-9847-4b84-976d-162f331c9d8b.jpg)
 
 # 2nd Deliverable
 
